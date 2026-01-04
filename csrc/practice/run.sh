@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/root/miniconda3/lib/python3.12/site-packages/torch/lib:$LD_LIBRARY_PATH && ./test_fa
